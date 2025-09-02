@@ -1,1 +1,8 @@
 The data used to plot Figure 1 and Supplementary figures
+
+
+The scripts used to generate the results in the main text—including phylogenetic tree construction, trait data simulation, regression model fitting, and statistical analysis—are provided in Main_code.zip. 
+
+The relevant codes for evaluating spatial statistical methods are available in Spatial_methods.zip.
+
+In addition, we have developed an R package, ROBPVRU, which implements phylogenetic eigenvector regression with union operations on eigenvectors combined with robust estimators.(https://github.com/zhenglinchen/ROBPVRU)
